@@ -1,4 +1,4 @@
-# ThermaSense - AI Server Cooling Optimisation System For Sustainable Data Centres
+# ThermaSense - AI Server Cooling Optimisation System For Sustainable Data Centres.
 
 ThermaSense is an ultra-modern, proactive data center cooling prediction system. It leverages a TensorFlow model via a FastAPI backend to predict potential future states based on 10 time-step historical telemetry data. The React-based frontend visualizes these metrics and system statuses dynamically using an intuitive, high-density command center layout.
 
